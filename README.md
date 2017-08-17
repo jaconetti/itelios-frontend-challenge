@@ -37,3 +37,23 @@ O objetivo do desafio é simples: Consumir uma json via xhttp e, com o resultado
 - Não utilização de bibliotecas ou frameworks
 - Fidelidade ao design proposto
 - Adaptação mobile
+
+
+## Descrição do projeto.
+
+Para acessar o projeto finalizado, além dos arquivos que estão no Git, pode acessá-lo através do endereço: http://itelioschallenge.norseit.com.br/.
+
+Para executar o projeto, criei uma aplicação no IIS com framework .Net Version 2.0.
+
+Toda o projeto foi feito em HTML, Javascript e Jquery (somente para manipulação dos objetos).
+
+Alterei os endereços das imagens do arquivo .json, deixando-as na pasta local (img). Foi necessário editar as imagens, deixando-as sem fundo (.png), para que
+o efeito gradient ficasse natural, já que as imagens tinham fundo branco.
+
+O script de manipulação do arquivo .json e o input dos dados no HTML está na pasta /js/main.js.
+
+O Slideshow foi feito em Javascript e HTML, o script está no endereço /js/slideshow.js e o css no endereço /css/slideshow.css.
+
+As fontes Roboto foram "embedadas" e estão disponíves nas pasta /fonts.
+
+Caso tenha alguma dúvida, estou à disposição.
