@@ -50,7 +50,7 @@ Toda o projeto foi feito em HTML, Javascript e Jquery (somente para manipulaçã
 Alterei os endereços das imagens do arquivo .json, deixando-as na pasta local (img). Foi necessário editar as imagens, deixando-as sem fundo (.png), para que
 o efeito gradient ficasse natural, já que as imagens tinham fundo branco.
 
-O script de manipulação do arquivo .json e o input dos dados no HTML está na pasta /js/main.js.
+O script de manipulação do arquivo .json e o input dos dados no HTML estão na pasta /js/main.js.
 
 O Slideshow foi feito em Javascript e HTML, o script está no endereço /js/slideshow.js e o css no endereço /css/slideshow.css.
 
